@@ -25,8 +25,11 @@
       <div id="logo">
         <div id="logo_text">
           <!-- class="logo_colour", allows you to change the colour of the text -->
-          <h1><a href="{{ env.path + '/' }}" rel="home start">{{ conf.title | first }}
-              <span class="logo_colour">{{ conf.title | last }}</span>
+          <h1><a href="{{ env.path + '/' }}" rel="home start">
+              <span class="logo_colour">
+		{{ conf.title | first }}
+	      </span>
+              {{ conf.title | last }}
           </a></h1>
           <h2>{{ conf.sitename }}</h2>
         </div>

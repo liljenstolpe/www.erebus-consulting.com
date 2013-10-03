@@ -6,6 +6,7 @@ import subprocess
 
 TITLE = ('Erebus', 'Consulting')
 
+SITENAME = '(ab)Using technology to solve real-world problems'
 WWW_ROOT = 'http://www.erebus-consulting.com/'
 
 AUTHOR = 'Christopher Liljenstolpe'
