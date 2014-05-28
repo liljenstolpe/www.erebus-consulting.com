@@ -32,7 +32,9 @@ GIT_COMMIT_BASE = 'https://github.com/liljenstolpe/www.erebus-consulting.com/com
 CC_TERM = 'by-nc-nd'
 CC_TEXT = 'CC BY-NC-ND'
 
-FILTERS = ['markdown+codehilite(css_class=highlight)', 'hyphenate', 'h1']
+FILTERS = ['markdown+codehilite(css_class=highlight)', 'hyphenate', 'h1', 'acronyms']
+
+ACRONYMS_FILE = 'acronyms.txt'
 VIEWS = {
     '/': {'filters': 'summarize', 'view': 'index',
           'pagination': '/page/:num/'},
