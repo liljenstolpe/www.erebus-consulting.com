@@ -7,7 +7,7 @@ type: page
 
 ## E-mail ##
 
-* blog (at) cdl.asgaard.org  
+* cdl (at) erebus-consulting.com  
 My [GPG/PGP](http://en.wikipedia.org/wiki/Pretty_Good_Privacy) Key can be found [here](../cdl/cdl.asc).
 
 
@@ -33,6 +33,6 @@ My [GPG/PGP](http://en.wikipedia.org/wiki/Pretty_Good_Privacy) Key can be found 
 
 ## Telephone ##
 
-* [+1.650.353.9690](tel:+16503539690)
+* [+1.415.520.3549](tel:+14155203549)
 * [cdl (at) asgaard.org](sip:cdl@asgaard.org) via
   ![SIP](/img/icon_sip.png SIP)
