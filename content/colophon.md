@@ -30,7 +30,8 @@ site.
 
 ### Logo image ###
 The picture of the trees used in the header can be found at
-[wallpaperscraft.com](http://wallpaperscraft.com/wallpaper/wood_black-and-white_from_below_trees_gloomy_kroner_fog_silence_60216).
+was taken by [Christopher Liljenstolpe](mailto:cdl@erebus-consulting.com) of 
+[Mt. Erebus](http://en.wikipedia.org/wiki/Mount_Erebus) in Antarctica.
 
 ## Version Control ##
 I'm using a public [github
