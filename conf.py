@@ -32,7 +32,11 @@ GIT_COMMIT_BASE = 'https://github.com/liljenstolpe/www.erebus-consulting.com/com
 CC_TERM = 'by-nc-nd'
 CC_TEXT = 'CC BY-NC-ND'
 
-FILTERS = ['markdown+codehilite(css_class=highlight)', 'hyphenate', 'h1']
+FILTERS = ['markdown+codehilite(css_class=highlight)', 'hyphenate',
+           'h1', 'typography+all']
+
+TYPOGRAPHY_MODE = "2"
+
 VIEWS = {
     '/': {'filters': 'summarize', 'view': 'index',
           'pagination': '/page/:num/'},
